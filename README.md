@@ -1,5 +1,15 @@
 # gruvbox-syntax theme
 
-A short description of your theme.
+Originally a [vim theme](https://github.com/morhetz/gruvbox), this theme is based on the excellent port to Sublime by [Briles]()
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+Font used in screenshots is Operator Mono.  Comments are in italics.
+
+##HTML
+![](https://raw.githubusercontent.com/smlombardi/gruvbox-syntax/master/images/html.png)
+
+
+##SCSS
+![](https://raw.githubusercontent.com/smlombardi/gruvbox-syntax/master/images/scss.png)
+
+##JS
+![](https://raw.githubusercontent.com/smlombardi/gruvbox-syntax/master/images/js.png)
