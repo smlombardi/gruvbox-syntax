@@ -1,0 +1,17 @@
+{
+  "name": "gruvbox-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Ported from the Sublime theme by Briles",
+  "keywords": [
+    "syntax",
+    "theme",
+    "dark",
+    "colorful"
+  ],
+  "repository": "https://github.com/atom/gruvbox-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
