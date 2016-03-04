@@ -1,6 +1,6 @@
 # gruvbox-syntax theme
 
-Originally a [vim theme](https://github.com/morhetz/gruvbox), this theme is based on the excellent port to Sublime by [Briles]()
+Originally a [vim theme](https://github.com/morhetz/gruvbox), this theme is based on the excellent port to Sublime by [Briles](http://brianreilly.me/gruvbox/).
 
 Font used in screenshots is Operator Mono.  Comments are in italics.
 
