@@ -1,7 +1,7 @@
 {
   "name": "gruvbox-syntax",
   "theme": "syntax",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Ported from the Sublime theme by Briles",
   "keywords": [
     "syntax",
