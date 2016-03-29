@@ -13,3 +13,6 @@ Font used in screenshots is Operator Mono.  Comments are in italics.
 
 ##JS
 ![](https://raw.githubusercontent.com/smlombardi/gruvbox-syntax/master/screenshots/js.png)
+
+##Typescript
+![](https://raw.githubusercontent.com/smlombardi/gruvbox-syntax/master/screenshots/ts.png)
