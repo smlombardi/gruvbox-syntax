@@ -59,18 +59,19 @@ atom-text-editor.is-focused .line-number.cursor-line-no-selection, atom-text-edi
   color: #fbf1c7;
 }
 
+// Comments
 .comment, .markup.strikethrough, .meta.punctuation.separator, .punctuation.definition.comment, .punctuation.whitespace.comment, .text.cancelled {
   font-style: italic;
   color: #928374;
 }
 
+// Keywords Inside Comments
 .comment.keyword, .comment.keyword.punctuation {
   color: #d5c4a1;
 }
 
-.comment, .comment .punctuation, .comment .text, .markup.strikethrough, .string.comment, .text.cancelled {
-  color: #bdae93;
-}
+
+// DocBlockr &amp; Other Keywords Inside Comments
 .comment.parameter, .comment.punctuation, .comment.string, .comment.type, .keyword.other.phpdoc.php, .punctuation.definition.keyword.javadoc, .ource.groovy .keyword.other.documentation, .source.java .keyword.other.documentation, .storage.type.annotation.coffeescript, .storage.type.class.jsdoc {
   color: #bdae93;
 }
@@ -610,12 +611,12 @@ atom-text-editor.is-focused .line-number.cursor-line-no-selection, atom-text-edi
   color: #fe8019;
 }
 
-.meta.at-rule.mixin.scss .keyword.control.at-rule.mixin.scss {
-  color: #fb4934;
-}
-.keyword.control.at-rule.mixin.scss .punctuation.definition.keyword.scss {
-  color: #cc421d;
-}
+// .meta.at-rule.mixin.scss .keyword.control.at-rule.mixin.scss {
+//   color: #fb4934;
+// }
+// .keyword.control.at-rule.mixin.scss .punctuation.definition.keyword.scss {
+//   color: #cc421d;
+// }
 
 .meta.at-rule.else.scss .keyword.control.else.scss, .meta.at-rule.if.scss .keyword.control.if.scss {
   color:#fabd2f;
@@ -633,15 +634,14 @@ atom-text-editor.is-focused .line-number.cursor-line-no-selection, atom-text-edi
 
 
 
-.meta.at-rule.media.scss .keyword.control.at-rule.media.scss {
-  color: #689d6a;
-}
-.keyword.control.at-rule.media.scss .punctuation.definition.keyword.scss {
-  color: #8ec07c;
-}
+// .meta.at-rule.media.scss .keyword.control.at-rule.media.scss {
+//   color:  #83a598;
+// }
+// .keyword.control.at-rule.media.scss .punctuation.definition.keyword.scss {
+//   color: #458588;
+// }
 .meta.content.scss .keyword.control.content.scss {
   color: #d5c4a1;
-  font-style: italic;
 }
 
 
