@@ -2,7 +2,7 @@
   "name": "gruvbox-syntax",
   "theme": "syntax",
   "version": "2.3.1",
-  "description": "Ported from the Sublime theme by Briles",
+  "description": "Gruvbox enhanced for Angukar JS and Typescript",
   "keywords": [
     "syntax",
     "theme",

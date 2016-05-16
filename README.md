@@ -1,5 +1,7 @@
 # gruvbox-syntax theme
 
+This version of Gruvbox has been enhanced for the latest features of Atom, such as syntax coloring for Angular JS HTML and Typescript.
+
 Originally a [vim theme](https://github.com/morhetz/gruvbox), this theme is based on the excellent port to Sublime by [Briles](http://brianreilly.me/gruvbox/).
 
 Font used in screenshots is Operator Mono.  Comments are in italics.
